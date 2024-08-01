@@ -1,2 +1,4 @@
-# noblock
- Noblock plugin without mayhem bug
+# Description
+Noblock plugin without mayhem bug
+
+It only works on SM 1.11+
